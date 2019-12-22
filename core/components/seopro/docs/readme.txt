@@ -1,7 +1,7 @@
 --------------------
 SEO Pro
 --------------------
-Version: 1.2.2-pl
+Version: 1.3.1-pl
 Author: Sterc <modx@sterc.nl>
 --------------------
 

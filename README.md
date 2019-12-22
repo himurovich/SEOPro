@@ -1,6 +1,6 @@
 # SEOPro
 **Author:** Sterc (<modx@sterc.nl>)  
-**Version:** 1.2.2
+**Version:** 1.3.1
 
 ## Description
 [SEOPro][2] is a MODX Extra developed by [Sterc][1]. This Extra offers you guidelines in the process of optimizing your webpage for search engines. It enables you to enter focus keywords per page. Based on that input, SEOPro provides you with feedback on the SEO quality of your pagetitle, longtitle, description and alias by checking if the keywords are present.
@@ -40,3 +40,9 @@ We greatly value your feedback, feature requests and bug reports. Please issue t
 [5]: https://modx.com/download
 [6]: https://secure.php.net/releases/
 [7]: https://github.com/Sterc/SEOPro
+
+# Free Extra
+This is a free extra and the code is publicly available for you to change. The extra is being actively maintained and you're free to put in pull requests which match our roadmap. Please create an issue if the pull request differs from the roadmap so we can make sure we're on the same page.
+
+Need help? [Approach our support desk for paid premium support.](mailto:service@sterc.com)
+
